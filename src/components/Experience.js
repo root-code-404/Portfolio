@@ -14,7 +14,7 @@ const Experience = () => {
       title: "Mern Stack Developer",
       subtitle: "Softzane Solutions, Ayoor,Kollam",
       description: "As a Software Development Intern at Softzne Solutions, I actively contributed to various stages of the software development lifecycle while gaining valuable hands-on experience in a professional environment.",
-      
+      year: "May 2023 - Dec 2023",
     },
   ];
 
@@ -34,7 +34,7 @@ const Experience = () => {
               <TimelineItemMemoized key={index}>
                 <Grid container spacing={2}>
                   <Grid item xs={12} sm={4}>
-                    <Typography variant="body1" style={{ color: "#ffffff", fontSize: isMobile ? 18 : 25, textAlign: isMobile ? 'center' : 'left' }}>
+                    <Typography spacing={2} variant="body1" style={{ color: "#ffffff", fontSize: isMobile ? 18 : 18, textAlign: isMobile ? 'center' : 'left' }}>
                       {exp.year}
                     </Typography>
                   </Grid>
