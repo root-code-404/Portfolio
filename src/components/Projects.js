@@ -38,6 +38,13 @@ const useStyles = {
 
 const projects = [
   {
+    title: 'Shopping Website',
+    description: `The Shopping website is a web-based application developed using React, a high-level JavaScript framework, and MongoDB for efficient data management. This project aims to provide an online learning platform for students.`,
+    technologies: ['React.Js', 'Node.Js', 'MongoDB','Vitelatest'],
+    imageUrl: '/project6.png',
+    githubLink: 'https://github.com/root-code-404/work.git',
+  },
+  {
     title: 'Online Learning Platform',
     description: `The Online Learning Platform is a web-based application developed using React, a high-level JavaScript framework, and MongoDB for efficient data management. This project aims to provide an online learning platform for students.`,
     technologies: ['React.Js', 'Node.Js', 'MongoDB'],
