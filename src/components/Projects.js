@@ -65,6 +65,13 @@ const projects = [
     imageUrl: '/project3.png',
     githubLink: 'https://github.com/root-code-404/Employee.git',
   },
+    {
+    title: 'HoobBank',
+    description: `Cloned a website using React and Vite to achieve fast load times and efficient component-driven development`,
+    technologies: ['React.Js', 'Vite',],
+    imageUrl: '/project5.png',
+    githubLink: 'https://github.com/root-code-404/Website.git',
+  },
 ];
 
 const Projects = () => {

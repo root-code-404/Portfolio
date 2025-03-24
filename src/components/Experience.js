@@ -14,7 +14,7 @@ const Experience = () => {
       title: "Mern Stack Developer",
       subtitle: "Softzane Solutions, Ayoor,Kollam",
       description: "As a Software Development Intern at Softzne Solutions, I actively contributed to various stages of the software development lifecycle while gaining valuable hands-on experience in a professional environment.",
-      year: "May 2023 - Dec 2023",
+      year: "Sep 2023 - Sep 2024",
     },
   ];
 
